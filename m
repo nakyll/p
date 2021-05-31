@@ -1,1 +1,1 @@
-{"name":"ADASquirrel","ticker":"SQRL","description":"ADA Squirrel from Italy with LOVElace","homepage":"http://adasquirrel.com","nonce":"1622309572"}
+{"name":"ADASquirrel","ticker":"SQRL","description":"ADA Squirrel from Italy with LOVElace","homepage":"https://adasquirrel.com/","nonce":"1622471304"}
